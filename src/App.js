@@ -31,7 +31,7 @@ class App extends Component {
         <CountryPicker handleCountryChange={this.handleCountryChange} />
         <Chart data={data} country={country} />
         <footer className={Styles.fot}>
-          <small>Powered by Muhammad Hamza</small>
+          <small>Powered by Aleem Memon</small>
         </footer>
       </div>
     );
